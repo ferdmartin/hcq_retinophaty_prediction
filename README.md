@@ -45,3 +45,8 @@ To run this project we need the following libraries:
   * If you use `conda`, you can install it with:
   
   `conda install -c conda-forge imbalanced-learn`
+
+* scikit-survival:
+  * If you use `pip`, you can install it with:
+  
+  `pip install -U scikit-survival`
