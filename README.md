@@ -46,7 +46,7 @@ To run this project we need the following libraries:
   
   `conda install -c conda-forge imbalanced-learn`
 
-* scikit-survival:
+* [scikit-survival](https://scikit-survival.readthedocs.io/en/stable/user_guide/index.html):
   * If you use `pip`, you can install it with:
   
   `pip install -U scikit-survival`
